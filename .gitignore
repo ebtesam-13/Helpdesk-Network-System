@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Environment
+venv/
+.env
+.vscode/
